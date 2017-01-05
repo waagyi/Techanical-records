@@ -1,2 +1,1 @@
-# Techanical-records
-My technical notes
+# Techanical- notes
